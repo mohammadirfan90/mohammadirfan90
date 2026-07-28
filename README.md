@@ -82,7 +82,7 @@ A selection of applications built with high standards of UI refinement and code 
       <p><b>Full-Stack Event Management Platform</b></p>
       <p>Built and deployed an event platform with RBAC for admins and participants. Managed database integrations, auth, and storage services. Configured production hosting on university VM, including application deployment and environment setup.</p>
       <p>
-        <code>Next.js</code> &bull; <code>Supabase</code> &bull; <code>Vercel</code> &bull; <code>VM Deployment</code> &bull; <code>NSSM</code> &bull; <code>Servy</code>
+        <code>Next.js</code> &bull; <code>Supabase</code> &bull; <code>VM Deployment</code> &bull; <code>NSSM</code> &bull; <code>Servy</code>
       </p>
       <p>
         <a href="https://github.com/mohammadirfan90/cse-fest-3" target="_blank">💻 Repository</a> &nbsp;&bull;&nbsp; 
