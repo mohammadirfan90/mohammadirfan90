@@ -110,12 +110,13 @@ A selection of applications built with high standards of UI refinement and code 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mohammadirfan90&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadirfan90&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mohammadirfan90&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&show_icons=true" alt="GitHub Stats" height="195" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadirfan90&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="Top Languages" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohammadirfan90&theme=dark&background=0d1117&title=ffffff&text=8b949e&ring=58a6ff&fire=58a6ff&border=30363d&hide_border=false" alt="GitHub Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=mohammadirfan90&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&border=30363d&hide_border=false" alt="GitHub Streak" height="195" />
 </p>
 
 <br/>
