@@ -68,6 +68,5 @@ Experienced with authentication, RBAC, REST APIs, PostgreSQL, and MongoDB.
 ---
 
 <!-- CONTRIBUTION SNAKE -->
-<p align="center">
-  [![octocat's Ghost Jungle](https://ghost-jungle.vercel.app/api/ghost-jungle?username=octocat)](https://ghost-jungle.vercel.app/?username=octocat)
-</p>
+  [![Irfan's Ghost Jungle](https://ghost-jungle.vercel.app/api/ghost-jungle?username=mohammadirfan90)](https://ghost-jungle.vercel.app/?username=mohammadirfan90)
+
