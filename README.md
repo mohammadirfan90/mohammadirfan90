@@ -69,5 +69,5 @@ Experienced with authentication, RBAC, REST APIs, PostgreSQL, and MongoDB.
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohammadirfan90/mohammadirfan90/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  [![octocat's Ghost Jungle](https://ghost-jungle.vercel.app/api/ghost-jungle?username=octocat)](https://ghost-jungle.vercel.app/?username=octocat)
 </p>
